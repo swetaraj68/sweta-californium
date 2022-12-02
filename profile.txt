@@ -1,0 +1,5 @@
+git branch -a —> Shows all the copies of a project
+ git branch —> Current copy of the project
+ git fetch —> Refreshes the project. Now we will be able to see the newly created branches too 
+ git checkout other-branch-name —> Changes the copy of your project from the current one to other-branch-name
+ git checkout -b newbranch —>  From you current copy it creates a new copy called newbranch on you local. This is only available at local at this point
